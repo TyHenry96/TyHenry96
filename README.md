@@ -16,14 +16,12 @@
 
 
   ##
-  <div class=status style="flex-direction=row">
+
   <div>
     <img height=180rem src="https://github-readme-stats.vercel.app/api?username=TyHenry96&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyHenry96&layout=compact&theme=dark"/>
   </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-  </div>
-  </div>
+ 
   </br>
   
  
