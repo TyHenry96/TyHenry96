@@ -16,7 +16,7 @@
 
 
   ##
-  <div class=status>
+  <div class=status style="flex-direction=row">
   <div>
     <img height=180rem src="https://github-readme-stats.vercel.app/api?username=TyHenry96&show_icons=true&theme=dark"/>
   </div>
