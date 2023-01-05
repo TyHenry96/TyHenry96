@@ -14,15 +14,12 @@
   
 - ⚡ Fun fact: I'm a Self Learner.
 
-
   ##
 
   <div>
     <img height=150rem src="https://github-readme-stats.vercel.app/api?username=TyHenry96&show_icons=true&theme=dark"/>
     <img height=150rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyHenry96&layout=compact&theme=dark"/>
   </div>
- 
-  </br>
   
  
 <div align="center"> 
