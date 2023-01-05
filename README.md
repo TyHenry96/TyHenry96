@@ -16,6 +16,11 @@
 
 
   ##
+  
+  <div>
+    <img height=180rem src="https://github-readme-stats.vercel.app/api?username=TyHenry96&show_icons=true&theme=transparent)"/>
+  </div>
+  </br>
  
 <div> 
  
